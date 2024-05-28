@@ -58,18 +58,12 @@ Firstly, start the backend server by navigating to “www” folder and running 
     </div>
     <div style="flex: 1; text-align: center; padding: 0 10px;">
         <h3>Video Demo:</h3>
-        <iframe width="100%" height="500" src="https://www.youtube.com/embed/FHY2oK-uat8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <video controls>
+            <source src="demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
 </div>
-
-<iframe height="500" src="https://youtu.be/FHY2oK-uat8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Video demo:
-
-<video height="500" controls>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
 ### High-level application diagram:
 
@@ -87,34 +81,11 @@ Firstly, start the backend server by navigating to “www” folder and running 
 
 ### Frontend:
 
--   axios
--   expo
--   expo-av
--   expo-constants
--   expo-linear-gradient
--   expo-linking
--   expo-router
--   expo-splash-screen
--   expo-status-bar
--   react
--   react-dom
--   react-native
--   react-native-safe-area-context
--   react-native-screens
--   react-native-use-websocket
--   react-native-web
+`axios`, `expo`, `expo-av`, `expo-constants`, `expo-linear-gradient`, `expo-linking`, `expo-router`, `expo-splash-screen`, `expo-status-bar`, `react`, `react-dom`, `react-native`, `react-native-safe-area-context`, `react-native-screens`, `react-native-use-websocket`, `react-native-web`
 
 ### Frontend devDependencies:
 
--   @babel/core
-
-## Authors
-
--   Maksym Bidnyi, Anton Pidkuiko
-
-## License
-
-MIT License
+`@babel/core`
 
 ## Contact
 
