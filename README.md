@@ -4,6 +4,38 @@
 
 Podcaster creates custom podcasts in real-time on any user-requested topic, in only 5 seconds, using the most advanced AI model from OpenAI, Anthropic AI, and Perplexity AI. It also leverages 7 categories with 10 pre-generated instantly available podcasts, that update/regenerate each 24 hours.
 
+### Review
+
+<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div style="flex: 1; text-align: center; padding: 0 10px;">
+        <h3>Loading Screen:</h3>
+        <img src="loadingScreen.png" alt="Loading Screen" title="Loading Screen of the App" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; text-align: center; padding: 0 10px;">
+        <h3>Main Screen:</h3>
+        <img src="mainScreen.png" alt="Main Screen" title="Main Screen of the App" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; text-align: center; padding: 0 10px;">
+        <h3>Podcast Screen:</h3>
+        <img src="podcastScreen.png" alt="Podcast Screen" title="Podcast Screen of the App" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; text-align: center; padding: 0 10px;">
+        <h3>Video Demo:</h3>
+        <video controls>
+            <source src="demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div> -->
+
+| ![Loading Screen](loadingScreen.png) | ![Main Screen](mainScreen.png) | ![Podcast Screen](podcastScreen.png) |
+| :----------------------------------: | :----------------------------: | :----------------------------------: |
+|          **Loading Screen**          |        **Main Screen**         |          **Podcast Screen**          |
+
+### Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/FHY2oK-uat8/0.jpg)](https://youtu.be/FHY2oK-uat8)
+
 ## Getting Started
 
 ### Prerequisites
@@ -40,38 +72,6 @@ Podcaster creates custom podcasts in real-time on any user-requested topic, in o
 ## Usage
 
 Firstly, start the backend server by navigating to “www” folder and running `npm run dev`. Then, start frontend by navigating to “app” folder and running `npm run start`. Once both successfully start, select an environment to run the application: iOS/Android device, web or simulator.
-
-### Review
-
-<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div style="flex: 1; text-align: center; padding: 0 10px;">
-        <h3>Loading Screen:</h3>
-        <img src="loadingScreen.png" alt="Loading Screen" title="Loading Screen of the App" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; text-align: center; padding: 0 10px;">
-        <h3>Main Screen:</h3>
-        <img src="mainScreen.png" alt="Main Screen" title="Main Screen of the App" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; text-align: center; padding: 0 10px;">
-        <h3>Podcast Screen:</h3>
-        <img src="podcastScreen.png" alt="Podcast Screen" title="Podcast Screen of the App" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; text-align: center; padding: 0 10px;">
-        <h3>Video Demo:</h3>
-        <video controls>
-            <source src="demo.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
-</div> -->
-
-| ![Loading Screen](loadingScreen.png) | ![Main Screen](mainScreen.png) | ![Podcast Screen](podcastScreen.png) |
-| :----------------------------------: | :----------------------------: | :----------------------------------: |
-|          **Loading Screen**          |        **Main Screen**         |          **Podcast Screen**          |
-
-### Video Demo
-
-[![Video Demo](https://img.youtube.com/vi/FHY2oK-uat8/0.jpg)](https://youtu.be/FHY2oK-uat8)
 
 ### High-level application diagram:
 
