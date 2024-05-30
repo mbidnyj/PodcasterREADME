@@ -43,7 +43,7 @@ Firstly, start the backend server by navigating to “www” folder and running 
 
 ### Review
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <div style="flex: 1; text-align: center; padding: 0 10px;">
         <h3>Loading Screen:</h3>
         <img src="loadingScreen.png" alt="Loading Screen" title="Loading Screen of the App" style="width: 100%; height: auto;">
@@ -63,7 +63,15 @@ Firstly, start the backend server by navigating to “www” folder and running 
             Your browser does not support the video tag.
         </video>
     </div>
-</div>
+</div> -->
+
+| ![Loading Screen](loadingScreen.png) | ![Main Screen](mainScreen.png) | ![Podcast Screen](podcastScreen.png) |
+| :----------------------------------: | :----------------------------: | :----------------------------------: |
+|          **Loading Screen**          |        **Main Screen**         |          **Podcast Screen**          |
+
+### Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/FHY2oK-uat8/0.jpg)](https://youtu.be/FHY2oK-uat8)
 
 ### High-level application diagram:
 
