@@ -79,21 +79,27 @@ Firstly, start the backend server by navigating to “www” folder and running 
 
 ## Built with
 
-### Backend:
-
-`express`, `@anthropic-ai/sdk`, `ai`, `aws-sdk`, `axios`, `compression`, `cors`, `dotenv`, `elevenlabs`, `mixpanel`, `mongoose`, `node-cron`, `openai`, `telegraf`, `throttle`, `uuid`, `ws`
-
-### Backend devDependencies:
-
-`eslint`, `nodemon`
-
 ### Frontend:
 
-`axios`, `expo`, `expo-av`, `expo-constants`, `expo-linear-gradient`, `expo-linking`, `expo-router`, `expo-splash-screen`, `expo-status-bar`, `react`, `react-dom`, `react-native`, `react-native-safe-area-context`, `react-native-screens`, `react-native-use-websocket`, `react-native-web`
+`React Native`: A framework for building native apps using React.\
+`Expo`: A platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
-### Frontend devDependencies:
+### Backend:
 
-`@babel/core`
+`Node.js`: A JavaScript runtime built on Chrome’s V8 JavaScript engine.\
+`Express`: A fast, unopinionated, minimalist web framework for Node.js.\
+`MongoDB`: A NoSQL database designed for modern application developers and for the cloud era.\
+`Mongoose`: An elegant mongodb object modeling for Node.js.
+
+### Integrations:
+
+`OpenAI SDK`: Tools to interact with OpenAI’s APIs.\
+`Anthropic AI SDK`: SDK for accessing Anthropic’s AI models.\
+`Perplexity AI`: Tools to interact with Perplexity’s APIs.\
+`ElevenLabs`: Provides API tools for voice cloning and speech synthesis.\
+`AWS SDK`: AWS Software Development Kit for access to Amazon Web Services.\
+`Mixpanel`: Analytics platform to analyze user interactions.\
+`Telegraf`: Modern Telegram bot framework for Node.js.
 
 ## Contact
 
